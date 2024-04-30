@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+
+}
+
+.flex-container{
+    justify-content: center;
+}
+
+.button{
+    background-color: moccasin;
+    width: 40px;
+    height: 38px;
+}
