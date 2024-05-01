@@ -1,3 +1,37 @@
-h1{
-    
+h1 {
+    text-align: center;
+    background-color: rgba(100, 196, 255, 0.438);
+    padding: 24px;
+
+    min-width: 300px;
+    border-radius: 24px;
 }
+
+.botao {
+    background-color: rgba(100, 196, 255, 0.432);
+    width: 176px;
+    height: 176px;
+
+    padding: 24px;
+    min-width: 300px;
+    border-radius: 24px;
+    border: solid 1px #7f8c8d;
+}
+
+.texto {
+    color: black;
+}
+
+
+p.texto-0{
+  
+    
+
+}
+
+
+.flex-container {
+    display: flex;
+    align-items: center;
+}
+
